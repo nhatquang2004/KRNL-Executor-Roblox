@@ -16,6 +16,7 @@ To get started with KRNL Executor, follow these simple steps:
 
 
 
+
 ![KRNL Executor Preview](/assets/maanvilro.gif)
 
 ## Table of Contents
